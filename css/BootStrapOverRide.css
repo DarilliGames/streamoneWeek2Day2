@@ -1,0 +1,10 @@
+.red{
+    background-color: red;
+}
+.navbar-inverse .navbar-brand{
+    color: white;
+  
+}
+.navbar-header{
+    background: linear-gradient(gray, 10%, red 90%, gray);
+}
